@@ -1,2 +1,3 @@
 # Subject-ThietKeWed
-use study Web design
+Full name: TRần Minh NHựt
+Student code: 110125123
